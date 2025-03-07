@@ -38,16 +38,6 @@ The parallelized version achieves significant **speedup** due to distributed wor
 
 ---
 
-## 📂 Project Structure  
-Graph-Pathfinding-Parallelization/ │── Serial.cpp # Serial version using Dijkstra's & Yen's Algorithm
-│── Parallel.cpp # Parallelized version using OpenMP & MPI──│
-│── readme.txt # Compilation & Execution instructions──│
-│── doctorwho.csv # Sample dataset for graph input──│
-│── report.pdf # Analysis and insights on performance──│
-│── results/ # Benchmark results & execution logs──│
-
----
-
 ## 🚀 How to Run  
 
 ### **1️⃣ Running the Serial Version**  
